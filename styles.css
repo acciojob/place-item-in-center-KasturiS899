@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+div{
+	display:flex;
+	height:100px;
+	width:100px;
+	background-color:red;	
+}
